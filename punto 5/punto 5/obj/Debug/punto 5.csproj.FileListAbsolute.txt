@@ -1,0 +1,10 @@
+C:\Users\nahu_\source\repos\punto 5\punto 5\bin\Debug\punto 5.exe.config
+C:\Users\nahu_\source\repos\punto 5\punto 5\bin\Debug\punto 5.exe
+C:\Users\nahu_\source\repos\punto 5\punto 5\bin\Debug\punto 5.pdb
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto 5.csprojAssemblyReference.cache
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto_5.Form1.resources
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto_5.Properties.Resources.resources
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto 5.csproj.GenerateResource.cache
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto 5.csproj.CoreCompileInputs.cache
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto 5.exe
+C:\Users\nahu_\source\repos\punto 5\punto 5\obj\Debug\punto 5.pdb
